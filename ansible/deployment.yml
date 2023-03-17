@@ -20,7 +20,7 @@
 
     - name: getting code to server
       git:
-        repo: "https://github.com/devops0014/batch08-mono-project.git"
+        repo: "https://github.com/prajwal1912/monolithic-project.git"
         dest: /var/www/html/
-        version: "frontend"
+        version: "fronted"
 
