@@ -7,4 +7,5 @@ Name = "project-instace"
 Environment = "prod"
 }
 key_name = "my-keypair"
+}
 
